@@ -1,7 +1,7 @@
 # PID_tracker
-EKP projekt
-
 Semestrální projekt předmětu EKP
+
+video: https://youtube.com/shorts/xRUNnFej-dQ?feature=shared
 
 Zpracovává data z veřejné API ->  https://api.golemio.cz/pid/docs/openapi/#/
 Pro funkčnost je potřeba v souboru PID_API.h vyplnit název wifi, heslo a golemio KEY, který lze vygenerovat na   https://api.golemio.cz/api-keys/auth/sign-in
